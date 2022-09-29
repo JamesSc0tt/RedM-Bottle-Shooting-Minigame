@@ -14,8 +14,8 @@ server_scripts {
 	'server/*.lua'
 }
 
-ui_page ''
+-- ui_page ''
 
-files {
+-- files {
 
-}
+-- }
